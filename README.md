@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Leonardo Boatti
 
 - 🔭 Analista de Sistemas na Yakult
-- 🌱 Cursando Pós-Graduação em Data Analytics na FIAP
+- 🌱 Cursando Pós-Graduação em Full Stack Develompment na FIAP
 
 <div align="center">
   <a href="https://github.com/leonardoboatti">
